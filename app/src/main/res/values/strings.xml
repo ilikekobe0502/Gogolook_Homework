@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GogoLook[Neo]</string>
+
+    <string name="data_empty">Search result is empty</string>
+    <string name="retry">Please Retry</string>
+    <string name="press_again_exit">Press again to exit App</string>
+    <string name="search_title">Search Image</string>
+    <string name="search_input_hint">type for search</string>
+</resources>
